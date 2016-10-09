@@ -1,0 +1,24 @@
+{
+  "responseTimeout": "3000",
+  "excludedUsers": [],
+  "reportChannel": "standup",
+  "questions": [
+    "What did you accomplish last week?",
+    "What did you miss last week?",
+    "What will you work on next week?",
+    "Any areas in which you are stuck? Where do you need help?"
+  ],
+  "openings": [
+    "Hey- it is time for some standup",
+    "Hello. It is time for standup.",
+    "Stand up, now."
+  ],
+  "closings": [
+    "Well, that was it, bye!",
+    "Chat next week!"
+  ],
+  "acknowledgements": [
+    "Thanks!",
+    "That's great!"
+  ]
+}

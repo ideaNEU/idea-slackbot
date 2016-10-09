@@ -1,0 +1,14 @@
+{
+  "name": "ideabot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Drew <drew@pomerleaudesign.com>",
+  "description": "IDEA's fantastic bot",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "idea-standupbot": "https://github.com/ideaNEU/idea-standupbot/tarball/0.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
