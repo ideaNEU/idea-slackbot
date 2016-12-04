@@ -6,9 +6,9 @@
   "description": "IDEA's fantastic bot",
   "dependencies": {
     "hubot": "^2.19.0",
-    "idea-standupbot": "https://github.com/ideaNEU/idea-standupbot/tarball/0.1.4"
+    "idea-standupbot": "https://github.com/ideaNEU/idea-standupbot/tarball/0.1.6"
   },
-  "engines": {
-    "node": "0.10.x"
+  "scripts": {
+    "start": "./bin/hubot -a slack"
   }
 }
